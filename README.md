@@ -16,7 +16,7 @@
 
 | 论文标题      | 论文链接                        | 代码链接                                  |
 | ------------- | ------------------------------- | ----------------------------------------- |
-| 论文标题 1    | [论文链接](https://example.com/paper1) | [GitHub](https://github.com/username/repository1) |
+| Combining Graph Neural Networks With Expert Knowledge for Smart Contract Vulnerability Detection    | [论文链接](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477066) | [GitHub](https://github.com/Messi-Q/GPSCVulDetector) |
 
 ## 自然语言处理
 
