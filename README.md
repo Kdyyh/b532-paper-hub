@@ -3,6 +3,8 @@
 | 论文标题      | 论文链接                        | 代码链接                                  |
 | ------------- | ------------------------------- | ----------------------------------------- |
 | Learning Transferable Visual Models From Natural Language Supervision（CLIP）   | [论文链接](https://arxiv.org/pdf/2103.00020) | [GitHub](https://github.com/openai/CLIP) |
+| Learning to Prompt for Vision-Language Models（Coop）   | [论文链接](https://arxiv.org/abs/2109.01134) | [GitHub](https://github.com/KaiyangZhou/CoOp) |
+| CoCoOp: Conditional Prompt Learning for Vision-Language Models（CoCoop）   | [论文链接](https://arxiv.org/pdf/2203.05557) | [GitHub](https://github.com/KaiyangZhou/CoOp) |
 
 ## 生物信息学
 
