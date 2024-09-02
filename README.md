@@ -2,7 +2,7 @@
 
 | 论文标题      | 论文链接                        | 代码链接                                  |
 | ------------- | ------------------------------- | ----------------------------------------- |
-| 论文标题 1    | [论文链接](https://example.com/paper3) | [GitHub](https://github.com/username/repository3) |
+| Learning Transferable Visual Models From Natural Language Supervision   | [论文链接](https://arxiv.org/pdf/2103.00020) | [GitHub](https://github.com/openai/CLIP) |
 
 ## 生物信息学
 
