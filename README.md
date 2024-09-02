@@ -10,7 +10,7 @@
 
 | 论文标题      | 论文链接                        | 代码链接                                  |
 | ------------- | ------------------------------- | ----------------------------------------- |
-| 论文标题 1     | [论文链接](https://example.com/paper1) | [GitHub](https://github.com/username/repository1) |
+| PPICT: an integrated deep neural network for predicting inter-protein PTM cross-talk     | [论文链接](https://doi.org/10.1093/bib/bbad052) | [GitHub](https://github.com/ComputeSuda/PPICT) |
 
 ## 区块链
 
