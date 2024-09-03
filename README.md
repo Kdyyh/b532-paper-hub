@@ -5,7 +5,7 @@
 | Learning Transferable Visual Models From Natural Language Supervision（CLIP）   | [论文链接](https://arxiv.org/pdf/2103.00020) | [GitHub](https://github.com/openai/CLIP) |
 | Learning to Prompt for Vision-Language Models（Coop）   | [论文链接](https://arxiv.org/abs/2109.01134) | [GitHub](https://github.com/KaiyangZhou/CoOp) |
 | CoCoOp: Conditional Prompt Learning for Vision-Language Models（CoCoop）   | [论文链接](https://arxiv.org/pdf/2203.05557) | [GitHub](https://github.com/KaiyangZhou/CoOp) |
-
+|Hierarchical Prompt Learning for Compositional Zero-Shot Recognition|[论文链接](https://www.ijcai.org/proceedings/2023/0163.pdf)|[Github](无)|
 ## 生物信息学
 
 | 论文标题      | 论文链接                        | 代码链接                                  |
