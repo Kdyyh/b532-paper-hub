@@ -11,6 +11,7 @@
 | 论文标题      | 论文链接                        | 代码链接                                  |
 | ------------- | ------------------------------- | ----------------------------------------- |
 | PPICT: an integrated deep neural network for predicting inter-protein PTM cross-talk     | [论文链接](https://doi.org/10.1093/bib/bbad052) | [GitHub](https://github.com/ComputeSuda/PPICT) |
+| PHIAF: prediction of phage-host interactions with GAN-based data augmentation and sequence-based feature fusion    | [论文链接](https://doi.org/10.1093/bioinformatics/btac374) |  [GitHub](https://github.com/BioMedicalBigDataMiningLab/PHIAF) |
 
 ## 区块链
 
